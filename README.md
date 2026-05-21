@@ -21,7 +21,7 @@
 name: Ralf Lorini
 aka: Rare Malo
 roles:
-  - Life Coach (Ehrliches Mitteilen, Floating)
+  - Life Coach (Ehrliches Mitteilen, FLOATING)
   - Developer (AI Agents, Docker, VPS)
 location: Speyer, Germany
 focus:
